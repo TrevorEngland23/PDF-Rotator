@@ -17,7 +17,7 @@ Rotate any PDF file within your file system to be in portrait mode. I got this i
     ```bash
     python --version
     # Install python if not installed
-    pip install pikepdf
+    pip install PyPDF2
     pip install tkinter
     ```  
 
