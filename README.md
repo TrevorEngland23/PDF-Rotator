@@ -26,7 +26,7 @@ Rotate any PDF file within your file system to be in portrait mode. I got this i
     python PDF_Rotator.py
     ```  
 
-    **Proof of Concept**  
+    ## Proof of Concept
 
     A. Upon execution, a small window will appear.  
 
