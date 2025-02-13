@@ -32,7 +32,7 @@ def rotate_pdf():
 
             pdfWriter.write(pdfOut)
 
-        messagebox.showinfo("Success", f"Portrait PDF saved as:\n{output_file}")
+        messagebox.showinfo("Success", f"Rotated PDF saved as:\n{output_file}")
 
     except FileNotFoundError:
         messagebox.showerror("Error", "File not found!")
