@@ -28,13 +28,16 @@ Rotate any PDF file within your file system to be in portrait mode. I got this i
 
     **Proof of Concept**  
 
-    Upon execution, a small window will appear.  
+    A. Upon execution, a small window will appear.  
+
     ![screenshot](images/gui.png)  
 
-    Select the PDF that needs to be rotated.  
+    B. Select the PDF that needs to be rotated.  
+
     ![screenshot](images/pdf-select.png)
     ![screenshot](images/original-pdf.png)  
 
-    Rotate the PDF  
+    C. Rotate the PDF  
+
     ![screenshot](images/pdf-confirmation.png)  
     ![screenshot](images/pdf-rotated.png)  
